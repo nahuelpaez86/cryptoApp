@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5EF65E52-39BE-49B2-8CAD-02B4691BCE9F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAEE5119-3BD7-42FD-8A76-4FA4743865A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "criptoMoneyApp/Components/InputTextFieldPrimary.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "togglePasswordVisibility()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5CFA888C-99A5-4F50-BC53-7AFF89562193"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "criptoMoneyApp/Data/Networking/DataSources/Cryptocurrency/CryptocurrencyDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getAll()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5CFA888C-99A5-4F50-BC53-7AFF89562193 - 55cfa71e63999a81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for criptoMoneyApp.CryptocurrencyDataSource.getAll() async -&gt; Swift.Result&lt;Swift.Array&lt;Swift.String&gt;, criptoMoneyApp.HTTPClientError&gt;"
+                  moduleName = "criptoMoneyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahuelpaez/Desktop/IOS%20proyects/CriptoApp/criptoMoneyApp/criptoMoneyApp/Data/Networking/DataSources/Cryptocurrency/CryptocurrencyDataSource.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "5CFA888C-99A5-4F50-BC53-7AFF89562193 - 55cfa71e63999a81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for criptoMoneyApp.CryptocurrencyDataSource.getAll() async -&gt; Swift.Result&lt;Swift.Array&lt;Swift.String&gt;, criptoMoneyApp.HTTPClientError&gt;"
+                  moduleName = "criptoMoneyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahuelpaez/Desktop/IOS%20proyects/CriptoApp/criptoMoneyApp/criptoMoneyApp/Data/Networking/DataSources/Cryptocurrency/CryptocurrencyDataSource.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "308">
+               </Location>
+               <Location
+                  uuid = "5CFA888C-99A5-4F50-BC53-7AFF89562193 - 9983f6e48b9a7c8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for criptoMoneyApp.CryptocurrencyDataSource.getAll() async -&gt; Swift.Result&lt;Swift.Array&lt;criptoMoneyApp.CryptocurrencyDTO&gt;, criptoMoneyApp.HTTPClientError&gt;"
+                  moduleName = "criptoMoneyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahuelpaez/Desktop/IOS%20proyects/CriptoApp/criptoMoneyApp/criptoMoneyApp/Data/Networking/DataSources/Cryptocurrency/CryptocurrencyDataSource.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA7F5B72-9266-40C1-AE50-6EB97CCAEEED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "criptoMoneyApp/Domain/UseCases/CryptocurrencyUseCases.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getAllCriptos()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DA7F5B72-9266-40C1-AE50-6EB97CCAEEED - 580343174294eaea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for criptoMoneyApp.CryptocurrencyUseCase.getAllCriptos() async -&gt; Swift.Result&lt;Swift.Array&lt;criptoMoneyApp.Cryptocurrency&gt;, criptoMoneyApp.CriptoCurrencyDomainError&gt;"
+                  moduleName = "criptoMoneyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahuelpaez/Desktop/IOS%20proyects/CriptoApp/criptoMoneyApp/criptoMoneyApp/Domain/UseCases/CryptocurrencyUseCases.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "DA7F5B72-9266-40C1-AE50-6EB97CCAEEED - 580343174294eaea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for criptoMoneyApp.CryptocurrencyUseCase.getAllCriptos() async -&gt; Swift.Result&lt;Swift.Array&lt;criptoMoneyApp.Cryptocurrency&gt;, criptoMoneyApp.CriptoCurrencyDomainError&gt;"
+                  moduleName = "criptoMoneyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahuelpaez/Desktop/IOS%20proyects/CriptoApp/criptoMoneyApp/criptoMoneyApp/Domain/UseCases/CryptocurrencyUseCases.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "848">
+               </Location>
+               <Location
+                  uuid = "DA7F5B72-9266-40C1-AE50-6EB97CCAEEED - 580343174294eb66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for criptoMoneyApp.CryptocurrencyUseCase.getAllCriptos() async -&gt; Swift.Result&lt;Swift.Array&lt;criptoMoneyApp.Cryptocurrency&gt;, criptoMoneyApp.CriptoCurrencyDomainError&gt;"
+                  moduleName = "criptoMoneyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nahuelpaez/Desktop/IOS%20proyects/CriptoApp/criptoMoneyApp/criptoMoneyApp/Domain/UseCases/CryptocurrencyUseCases.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "540">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11CB3D58-03C5-4C7E-BE7B-354EFB629282"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "criptoMoneyApp/Domain/UseCases/CryptocurrencyUseCases.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getAllCriptos()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00C52D5E-7AAC-4D54-BEFB-A82F0F80DAF9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "criptoMoneyApp/Presentation/UI/Controllers/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "setView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58EAAA22-7A8C-45FB-9DE6-418E8CD30F57"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "criptoMoneyApp/Presentation/ViewModels/CryptocurrencyDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "prepareInformationToPresent(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1AD5D7C-443C-40E6-B530-57BADE601CF7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "criptoMoneyApp/Presentation/UI/Controllers/CryptocurrencyDetail/internalComponents/HeaderDetail.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "setFavButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C85629C-402A-488B-9142-2E08A586AED7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "criptoMoneyApp/Presentation/ViewModels/CryptocurrencyDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "prepareInformationToPresent(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,58 @@
+
+
+ Para view de EXCHANGES.
+ 
+ + Endpoint: https://api.coingecko.com/api/v3/exchanges
+
+ + Entitie:
+{
+    "id": "okex",
+    "name": "OKX",
+    "year_established": 2017,
+    "country": "Seychelles",
+    "description": "",
+    "url": "https://www.okx.com",
+    "image": "https://assets.coingecko.com/markets/images/96/small/WeChat_Image_20220117220452.png?1642428377",
+    "has_trading_incentive": false,
+    "trust_score": 10,
+    "trust_score_rank": 1,
+    "trade_volume_24h_btc": 32871.833432388245,
+    "trade_volume_24h_btc_normalized": 32871.833432388245
+  }
+
+Para coins general
+
++ Enpdoint
+https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false&locale=en
+
+
+Entitie :
+
+{
+    "id": "bitcoin",
+    "symbol": "btc",
+    "name": "Bitcoin",
+    "image": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+    "current_price": 35050,
+    "market_cap": 684079701425,
+    "market_cap_rank": 1,
+    "fully_diluted_valuation": 735438977345,
+    "total_volume": 10131982281,
+    "high_24h": 35261,
+    "low_24h": 34608,
+    "price_change_24h": 292.75,
+    "price_change_percentage_24h": 0.84227,
+    "market_cap_change_24h": 5658413389,
+    "market_cap_change_percentage_24h": 0.83406,
+    "circulating_supply": 19533468,
+    "total_supply": 21000000,
+    "max_supply": 21000000,
+    "ath": 69045,
+    "ath_change_percentage": -49.29277,
+    "ath_date": "2021-11-10T14:24:11.849Z",
+    "atl": 67.81,
+    "atl_change_percentage": 51531.33449,
+    "atl_date": "2013-07-06T00:00:00.000Z",
+    "roi": null,
+    "last_updated": "2023-11-05T01:12:26.975Z"
+  },
